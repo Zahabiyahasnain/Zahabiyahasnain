@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zahabiyahasnain
-- 👀 I’m interested in...
-- 🌱 I’m currently learning swiftui
+- 👀 I’m interested in working in swiftui to enhance my knowledge.
+- 🌱 I’m currently learning swiftui.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email me on princess5253.zr@gmail.com 
 
